@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Kitchen</title>
+  <link>https://nonnamelik.github.io/Kitchen/</link>
+  <description>Novi cenovnik kuhinje</description>
+  <item>
+    <title>Galerija</title>
+    <link>https://nonnamelik.github.io/Kitchen/meals.html</link>
+    <description>Novi obroci u našoj kuhinji</description>
+  </item>
+  <item>
+    <title>Forma</title>
+    <link>https://nonnamelik.github.io/Kitchen/contact.html</link>
+    <description>Nova forma za prijavljivanje na program</description>
+  </item>
+</channel>
+
+</rss>
