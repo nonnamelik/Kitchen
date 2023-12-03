@@ -183,7 +183,7 @@
     display: inline-block;
   }
   
-  .hero-img {
+  .gr-img {
     width: 530px;
     position: relative;
     bottom: 50px;
@@ -192,7 +192,7 @@
     box-shadow: 4px 4px 8px 0px rgba(0,0,0,0.3);
   }
 
-  .hero-img:hover {
+  .gr-img:hover {
     transform: scale(1.1);
     transition: 0.5s
   }
